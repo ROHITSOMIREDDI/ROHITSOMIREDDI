@@ -67,15 +67,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITSOMIREDDI&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITSOMIREDDI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Somireddi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohit-somireddi-629277320)
