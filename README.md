@@ -1,14 +1,16 @@
 # Hi, I'm Rohit Somireddi 👋
 
-> Full-Stack Developer • Building fast, scalable, and aesthetic web apps • Visakhapatnam, India 🇮🇳
+> B.Tech CSE student • Aspiring Software Developer • Building fast, scalable & aesthetic web apps • Visakhapatnam, India 🇮🇳
 
 ---
 
 ## 🚀 About Me
 
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
 - 🔭 Currently building **[DRizl](https://drizl.vercel.app)** — a premium URL shortener with advanced analytics, geo-targeting & A/B testing
-- 🌱 Learning deeper backend architecture, system design & cloud deployments
-- 💡 I love building products that combine performance with great UI/UX
+- 💼 Actively looking for **Software Developer** roles & internship opportunities
+- 🧠 Passionate about DSA, Machine Learning, and building full-stack products
+- 🌱 Currently levelling up in system design, ML algorithms & cloud deployments
 - 📍 Based in Visakhapatnam, Andhra Pradesh, India
 
 ---
@@ -37,6 +39,24 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Machine Learning & AI**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🧩 Skills & Interests
+
+| Area | Details |
+|---|---|
+| 💻 Software Development | Full-stack web apps, REST APIs, backend systems |
+| 🧠 DSA & Problem Solving | Data structures, algorithms, competitive programming |
+| 🤖 Machine Learning / AI | Supervised learning, data analysis, model building |
+| 🗄️ Databases | PostgreSQL, SQLite, Firebase, Redis |
+| 🔐 Security | JWT auth, bcrypt hashing, rate limiting, env management |
+
 ---
 
 ## 🌟 Featured Projects
@@ -64,6 +84,15 @@
 - **Stack:** TypeScript · React · Firebase
 
 [![Repo](https://img.shields.io/badge/GitHub-esports--live--points--pro-181717?style=flat-square&logo=github)](https://github.com/ROHITSOMIREDDI/esports-live-points-pro)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHITSOMIREDDI&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITSOMIREDDI&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
